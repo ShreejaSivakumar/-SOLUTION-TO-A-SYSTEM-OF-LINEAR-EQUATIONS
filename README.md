@@ -17,18 +17,20 @@ End the program
 
 ```python
 #Program to find the solution for the given linear equations.
-#Developed by: 
-#RegisterNumber:
+#Developed by: SHREEJA R S
+#RegisterNumber: 25017561
+
 import numpy as np
-A=np.array([[5,-3,-10],[2,2,-3],[-3,-1,5]])
-B=np.array([-9,4,-1])
-C=np.linalg.solve(A,B)
+A = np.array([[1, -3],[3,  1]])
+B = np.array([0, 10])
+C = np.linalg.solve(A, B)
 print(C)
 ```
 
 ## Output:
 
-<img width="1482" height="956" alt="image" src="https://github.com/user-attachments/assets/84374e80-6114-4cb0-a056-bf80b53f8cad" />
+<img width="1306" height="939" alt="image" src="https://github.com/user-attachments/assets/a2eb2a9e-e6a1-4c6e-897c-007072899527" />
+
 
 NAME : SHREEJA R S
 
