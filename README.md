@@ -30,7 +30,7 @@ print(C)
 
 ## Output:
 
-<img width="1306" height="939" alt="image" src="https://github.com/user-attachments/assets/a2eb2a9e-e6a1-4c6e-897c-007072899527" />
+<img width="1299" height="832" alt="image" src="https://github.com/user-attachments/assets/23e062e3-34c5-4d79-b1ce-7115fa75c8f7" />
 
 
 NAME : SHREEJA R S
